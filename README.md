@@ -1,1 +1,11 @@
-# loip.github.io
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Мой первый сайт</title>
+</head>
+<body>
+  <h1>Привет! Это мой сайт 🚀</h1>
+  <p>Сделан бесплатно через GitHub Pages.</p>
+</body>
+</html>
